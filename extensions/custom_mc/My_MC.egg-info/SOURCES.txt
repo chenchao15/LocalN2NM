@@ -1,0 +1,6 @@
+_marching_cubes_lewiner_cy.cpp
+setup.py
+My_MC.egg-info/PKG-INFO
+My_MC.egg-info/SOURCES.txt
+My_MC.egg-info/dependency_links.txt
+My_MC.egg-info/top_level.txt

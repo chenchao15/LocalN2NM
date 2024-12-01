@@ -1,0 +1,5 @@
+# ninja log v5
+1	12155	1677217050664299126	/data/zhoujunsheng/workspace/CAP-UDF-master/extensions/chamfer_dist/build/temp.linux-x86_64-3.8/chamfer_cuda.o	e97bc1b2e75adba3
+0	40549	1677217079056298129	/data/zhoujunsheng/workspace/CAP-UDF-master/extensions/chamfer_dist/build/temp.linux-x86_64-3.8/chamfer.o	df7191c1e226057e
+5	12666	1681716203558305450	/data/zhoujunsheng/workspace/NeuralPull-Pytorch-master/extensions/chamfer_dist/build/temp.linux-x86_64-3.8/chamfer_cuda.o	96c700832fe3d8de
+4	40824	1681716231722304461	/data/zhoujunsheng/workspace/NeuralPull-Pytorch-master/extensions/chamfer_dist/build/temp.linux-x86_64-3.8/chamfer.o	3ca6cb772217f672
