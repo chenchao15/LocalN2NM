@@ -1,6 +1,6 @@
 # Inferring Neural Signed Distance Functions by Overfitting on Single Noisy Point Clouds through Finetuning Data-Driven based Priors (NeurIPS 2024)
 
-### [Project](https://arxiv.org/pdf/2410.19680) | [paper (AAAI)](https://arxiv.org/pdf/2410.19680) 
+### [Project](https://arxiv.org/pdf/2410.19680) | [paper (NeurIPS)](https://arxiv.org/pdf/2410.19680) 
 
 ## Citation
 
